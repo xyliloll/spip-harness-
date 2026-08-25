@@ -3,7 +3,7 @@
 > Smart Project Intelligence Platform — 用长期数据、可配置专业 Agent 和持续 Workspace 完成真实工作。
 
 [![Release](https://img.shields.io/badge/release-v1.0.0--preview-7e22ce)](https://github.com/xyliloll/spip-harness-/releases)
-[![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-V1%20closing-orange)](#项目状态)
 
 SPIP 是一个面向个人与团队的智能工作平台。它不是复杂 ERP，也不是单纯聊天机器人：用户把长期资料放入数据中心，在 Workspace 中向系统基础 Agent 提交目标，由基础 Agent 读取当前授权数据、规划任务、调用工具、协调专业 Agent，并交付可预览、可下载、可追溯的文件成果。
@@ -69,7 +69,7 @@ flowchart LR
 
 ## 开源与安全
 
-本项目计划以 [GNU Affero General Public License v3.0](LICENSE) 发布。第三方组件和素材继续遵守各自许可证。
+本项目采用 [MIT License](LICENSE) 发布。第三方组件和素材继续遵守各自许可证。
 
 请勿提交真实 API Key、密码、Token、用户文件或生产数据库。发现安全问题请先阅读 [SECURITY.md](SECURITY.md)，不要直接公开漏洞细节。
 
